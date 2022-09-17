@@ -1,1 +1,1 @@
-synapse-tasks
+SYNAPSE-TASKS
